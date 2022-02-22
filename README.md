@@ -19,3 +19,5 @@ Examples:
 
     Secret:  AABC, Guess: ABED, Result: rightPosition: 1, wrongPosition: 1
     Secret:  AABC, Guess: ABAD, Result: rightPosition: 1, wrongPosition: 2
+
+Test examples have been extracted from [Coursera](https://www.coursera.org/learn/kotlin-for-java-developers)
