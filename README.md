@@ -1,4 +1,5 @@
 # MasterMindSolver
+[![Build Status](https://app.travis-ci.com/ArnauG/MasterMindSolver.svg?branch=main)](https://app.travis-ci.com/ArnauG/MasterMindSolver)
 Exercise to resolve [Mastermind](https://en.wikipedia.org/wiki/Mastermind_(board_game)) code solver
 
 Mastermind is a code-breaking game for two players. A code is made up 4 coloured pins and their position. I will use 6 colours (that we will represent with letters from A to F) to choose from and the same colour can be repeated multiple times:
