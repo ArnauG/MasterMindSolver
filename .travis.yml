@@ -3,7 +3,7 @@ jdk: openjdk14
 
 branches:
   only:
-    - master
+    - main
 
 jobs:
   include:
